@@ -17,8 +17,12 @@ items:
   fullName: SUPERMERKATUA.Saltzailea
   type: Class
   source:
+    remote:
+      path: SALTZAILEA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Saltzailea
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\SALTZAILEA.cs
+    path: SALTZAILEA.cs
     startLine: 8
   assemblies:
   - SUPERMERKATUA
@@ -48,8 +52,12 @@ items:
   fullName: SUPERMERKATUA.Saltzailea.Id
   type: Property
   source:
+    remote:
+      path: SALTZAILEA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Id
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\SALTZAILEA.cs
+    path: SALTZAILEA.cs
     startLine: 11
   assemblies:
   - SUPERMERKATUA
@@ -73,8 +81,12 @@ items:
   fullName: SUPERMERKATUA.Saltzailea.Izena
   type: Property
   source:
+    remote:
+      path: SALTZAILEA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Izena
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\SALTZAILEA.cs
+    path: SALTZAILEA.cs
     startLine: 12
   assemblies:
   - SUPERMERKATUA
@@ -98,8 +110,12 @@ items:
   fullName: SUPERMERKATUA.Saltzailea.Nan
   type: Property
   source:
+    remote:
+      path: SALTZAILEA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Nan
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\SALTZAILEA.cs
+    path: SALTZAILEA.cs
     startLine: 13
   assemblies:
   - SUPERMERKATUA
@@ -123,8 +139,12 @@ items:
   fullName: SUPERMERKATUA.Saltzailea.Saltzailea()
   type: Constructor
   source:
+    remote:
+      path: SALTZAILEA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: .ctor
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\SALTZAILEA.cs
+    path: SALTZAILEA.cs
     startLine: 15
   assemblies:
   - SUPERMERKATUA

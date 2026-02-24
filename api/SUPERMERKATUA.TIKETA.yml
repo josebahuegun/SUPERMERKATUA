@@ -21,8 +21,12 @@ items:
   fullName: SUPERMERKATUA.TIKETA
   type: Class
   source:
+    remote:
+      path: TIKETA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: TIKETA
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\TIKETA.cs
+    path: TIKETA.cs
     startLine: 8
   assemblies:
   - SUPERMERKATUA
@@ -52,8 +56,12 @@ items:
   fullName: SUPERMERKATUA.TIKETA.Id
   type: Property
   source:
+    remote:
+      path: TIKETA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Id
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\TIKETA.cs
+    path: TIKETA.cs
     startLine: 10
   assemblies:
   - SUPERMERKATUA
@@ -77,8 +85,12 @@ items:
   fullName: SUPERMERKATUA.TIKETA.Data
   type: Property
   source:
+    remote:
+      path: TIKETA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Data
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\TIKETA.cs
+    path: TIKETA.cs
     startLine: 11
   assemblies:
   - SUPERMERKATUA
@@ -102,8 +114,12 @@ items:
   fullName: SUPERMERKATUA.TIKETA.Kantitatea
   type: Property
   source:
+    remote:
+      path: TIKETA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Kantitatea
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\TIKETA.cs
+    path: TIKETA.cs
     startLine: 12
   assemblies:
   - SUPERMERKATUA
@@ -127,8 +143,12 @@ items:
   fullName: SUPERMERKATUA.TIKETA.PrezioaKg
   type: Property
   source:
+    remote:
+      path: TIKETA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: PrezioaKg
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\TIKETA.cs
+    path: TIKETA.cs
     startLine: 13
   assemblies:
   - SUPERMERKATUA
@@ -152,8 +172,12 @@ items:
   fullName: SUPERMERKATUA.TIKETA.Totala
   type: Property
   source:
+    remote:
+      path: TIKETA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Totala
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\TIKETA.cs
+    path: TIKETA.cs
     startLine: 14
   assemblies:
   - SUPERMERKATUA
@@ -177,8 +201,12 @@ items:
   fullName: SUPERMERKATUA.TIKETA.IdSaltzailea
   type: Property
   source:
+    remote:
+      path: TIKETA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: IdSaltzailea
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\TIKETA.cs
+    path: TIKETA.cs
     startLine: 15
   assemblies:
   - SUPERMERKATUA
@@ -202,8 +230,12 @@ items:
   fullName: SUPERMERKATUA.TIKETA.IdProduktua
   type: Property
   source:
+    remote:
+      path: TIKETA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: IdProduktua
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\TIKETA.cs
+    path: TIKETA.cs
     startLine: 16
   assemblies:
   - SUPERMERKATUA
@@ -227,8 +259,12 @@ items:
   fullName: SUPERMERKATUA.TIKETA.TIKETA()
   type: Constructor
   source:
+    remote:
+      path: TIKETA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: .ctor
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\TIKETA.cs
+    path: TIKETA.cs
     startLine: 18
   assemblies:
   - SUPERMERKATUA

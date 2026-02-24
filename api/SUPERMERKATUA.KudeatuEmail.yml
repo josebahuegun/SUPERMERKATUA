@@ -14,8 +14,12 @@ items:
   fullName: SUPERMERKATUA.KudeatuEmail
   type: Class
   source:
+    remote:
+      path: KudeatuEmail.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: KudeatuEmail
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\KudeatuEmail.cs
+    path: KudeatuEmail.cs
     startLine: 10
   assemblies:
   - SUPERMERKATUA
@@ -47,8 +51,12 @@ items:
   fullName: SUPERMERKATUA.KudeatuEmail.Bidali(string)
   type: Method
   source:
+    remote:
+      path: KudeatuEmail.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Bidali
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\KudeatuEmail.cs
+    path: KudeatuEmail.cs
     startLine: 16
   assemblies:
   - SUPERMERKATUA

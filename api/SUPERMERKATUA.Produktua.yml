@@ -17,8 +17,12 @@ items:
   fullName: SUPERMERKATUA.Produktua
   type: Class
   source:
+    remote:
+      path: PRODUKTUA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Produktua
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\PRODUKTUA.cs
+    path: PRODUKTUA.cs
     startLine: 8
   assemblies:
   - SUPERMERKATUA
@@ -48,8 +52,12 @@ items:
   fullName: SUPERMERKATUA.Produktua.Id
   type: Property
   source:
+    remote:
+      path: PRODUKTUA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Id
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\PRODUKTUA.cs
+    path: PRODUKTUA.cs
     startLine: 10
   assemblies:
   - SUPERMERKATUA
@@ -73,8 +81,12 @@ items:
   fullName: SUPERMERKATUA.Produktua.Izena
   type: Property
   source:
+    remote:
+      path: PRODUKTUA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Izena
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\PRODUKTUA.cs
+    path: PRODUKTUA.cs
     startLine: 11
   assemblies:
   - SUPERMERKATUA
@@ -98,8 +110,12 @@ items:
   fullName: SUPERMERKATUA.Produktua.Kategoria
   type: Property
   source:
+    remote:
+      path: PRODUKTUA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Kategoria
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\PRODUKTUA.cs
+    path: PRODUKTUA.cs
     startLine: 12
   assemblies:
   - SUPERMERKATUA
@@ -123,8 +139,12 @@ items:
   fullName: SUPERMERKATUA.Produktua.Produktua()
   type: Constructor
   source:
+    remote:
+      path: PRODUKTUA.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: .ctor
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\PRODUKTUA.cs
+    path: PRODUKTUA.cs
     startLine: 14
   assemblies:
   - SUPERMERKATUA

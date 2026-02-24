@@ -14,8 +14,12 @@ items:
   fullName: SUPERMERKATUA.EXCELkudeatu
   type: Class
   source:
+    remote:
+      path: EXCELkudeatu.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: EXCELkudeatu
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\EXCELkudeatu.cs
+    path: EXCELkudeatu.cs
     startLine: 8
   assemblies:
   - SUPERMERKATUA
@@ -47,8 +51,12 @@ items:
   fullName: SUPERMERKATUA.EXCELkudeatu.Erregistratu(string, string)
   type: Method
   source:
+    remote:
+      path: EXCELkudeatu.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Erregistratu
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\EXCELkudeatu.cs
+    path: EXCELkudeatu.cs
     startLine: 15
   assemblies:
   - SUPERMERKATUA

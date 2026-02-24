@@ -14,8 +14,12 @@ items:
   fullName: SUPERMERKATUA.FitxategiaKargatu
   type: Class
   source:
+    remote:
+      path: FITXATEGIAKARGATU.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: FitxategiaKargatu
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\FITXATEGIAKARGATU.cs
+    path: FITXATEGIAKARGATU.cs
     startLine: 11
   assemblies:
   - SUPERMERKATUA
@@ -47,8 +51,12 @@ items:
   fullName: SUPERMERKATUA.FitxategiaKargatu.DatuakInportatu(string)
   type: Method
   source:
+    remote:
+      path: FITXATEGIAKARGATU.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: DatuakInportatu
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\FITXATEGIAKARGATU.cs
+    path: FITXATEGIAKARGATU.cs
     startLine: 25
   assemblies:
   - SUPERMERKATUA

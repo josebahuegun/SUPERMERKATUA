@@ -15,8 +15,12 @@ items:
   fullName: SUPERMERKATUA.XMLsortu
   type: Class
   source:
+    remote:
+      path: XMLsortu.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: XMLsortu
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\XMLsortu.cs
+    path: XMLsortu.cs
     startLine: 8
   assemblies:
   - SUPERMERKATUA
@@ -46,8 +50,12 @@ items:
   fullName: SUPERMERKATUA.XMLsortu.Sortu(System.Collections.Generic.List<SUPERMERKATUA.TIKETA>, string)
   type: Method
   source:
+    remote:
+      path: XMLsortu.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Sortu
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\XMLsortu.cs
+    path: XMLsortu.cs
     startLine: 11
   assemblies:
   - SUPERMERKATUA
@@ -78,8 +86,12 @@ items:
   fullName: SUPERMERKATUA.XMLsortu.Balidatu(string, string)
   type: Method
   source:
+    remote:
+      path: XMLsortu.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: Balidatu
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\XMLsortu.cs
+    path: XMLsortu.cs
     startLine: 41
   assemblies:
   - SUPERMERKATUA

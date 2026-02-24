@@ -19,8 +19,12 @@ items:
   fullName: SUPERMERKATUA.ESTADISTIKAK
   type: Class
   source:
+    remote:
+      path: ESTADISTIKAK.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: ESTADISTIKAK
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    path: ESTADISTIKAK.cs
     startLine: 12
   assemblies:
   - SUPERMERKATUA
@@ -52,8 +56,12 @@ items:
   fullName: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenProduktua(string)
   type: Method
   source:
+    remote:
+      path: ESTADISTIKAK.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: GehienSalduDenProduktua
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    path: ESTADISTIKAK.cs
     startLine: 19
   assemblies:
   - SUPERMERKATUA
@@ -83,8 +91,12 @@ items:
   fullName: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDenProduktua(string)
   type: Method
   source:
+    remote:
+      path: ESTADISTIKAK.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: GutxienSalduDenProduktua
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    path: ESTADISTIKAK.cs
     startLine: 52
   assemblies:
   - SUPERMERKATUA
@@ -114,8 +126,12 @@ items:
   fullName: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDuenSaltzailea(string)
   type: Method
   source:
+    remote:
+      path: ESTADISTIKAK.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: GehienSalduDuenSaltzailea
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    path: ESTADISTIKAK.cs
     startLine: 85
   assemblies:
   - SUPERMERKATUA
@@ -145,8 +161,12 @@ items:
   fullName: SUPERMERKATUA.ESTADISTIKAK.GutxienSalduDuenSaltzailea(string)
   type: Method
   source:
+    remote:
+      path: ESTADISTIKAK.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: GutxienSalduDuenSaltzailea
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    path: ESTADISTIKAK.cs
     startLine: 118
   assemblies:
   - SUPERMERKATUA
@@ -176,8 +196,12 @@ items:
   fullName: SUPERMERKATUA.ESTADISTIKAK.GehienSalduDenEguna(string)
   type: Method
   source:
+    remote:
+      path: ESTADISTIKAK.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: GehienSalduDenEguna
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    path: ESTADISTIKAK.cs
     startLine: 151
   assemblies:
   - SUPERMERKATUA
@@ -207,8 +231,12 @@ items:
   fullName: SUPERMERKATUA.ESTADISTIKAK.SaldutakoaSaltzaileko(string)
   type: Method
   source:
+    remote:
+      path: ESTADISTIKAK.cs
+      branch: main
+      repo: https://github.com/josebahuegun/SUPERMERKATUA.git
     id: SaldutakoaSaltzaileko
-    path: C:\Users\josebahuegun\Desktop\ERRONKAK\2\VISUALERRONKA\SUPERMERKATUA\ESTADISTIKAK.cs
+    path: ESTADISTIKAK.cs
     startLine: 184
   assemblies:
   - SUPERMERKATUA
